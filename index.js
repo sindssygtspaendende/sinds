@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Sindssygt Spændende på TikTok","Playing Sience","Making Daglige videoer på TikTok","Listening to Martin kan rejse frem i tiden!","Playing en bold på det magiske spejl"];
+const statusMessages = ["Watching Sindssygt Spændende på TikTok","Playing Science","Making daglige videoer på TikTok","Listening to Martin kan rejse frem i tiden!","Streaming en sindssygt spændende livestream på Grotten"];
 
 
 let currentIndex = 0;
